@@ -1,4 +1,3 @@
-# Subdirección para la Juventud — SDIS Bogotá
 
 Repositorio de proyectos digitales, dashboards y herramientas de gestión de la  **Subdirección para la Juventud** de la Secretaría Distrital de Integración Social  (SDIS) de Bogotá.
 
